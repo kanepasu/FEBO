@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mynerve&display=swap');
+body{
+    font-family: 'Zen Kaku Gothic Antique';
+}
+.title{
+    font-family: 'Mynerve', cursive;
+    font-size: 150px;
+    text-align: center
+}
